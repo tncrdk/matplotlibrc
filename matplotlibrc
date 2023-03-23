@@ -30,7 +30,7 @@ savefig.bbox : tight
 savefig.dpi : 500
 savefig.transparent : True
 # -- Plot Styles --
-lines.linewidth : 1
+lines.linewidth : 2
 # --Legend --
 legend.fontsize : 15
 legend.handlelength : 2.0
