@@ -1,0 +1,36 @@
+axes.spines.bottom : True
+axes.spines.left : True
+axes.spines.right : False
+axes.spines.top : False
+axes.grid : True
+axes.grid.axis : both
+grid.color : grey
+grid.linewidth : 0.8
+axes.axisbelow : True
+axes.linewidth : 2
+axes.ymargin : 0
+# -- Ticks and tick labels --
+axes.edgecolor : grey
+xtick.color : grey
+ytick.color : grey
+xtick.direction : "in"
+ytick.direction : "in"
+xtick.major.size : 5.0
+xtick.minor.size : 3.0
+ytick.major.size : 5.0
+ytick.minor.size : 3.0
+# -- Fonts --
+font.size : 15
+text.color : grey
+axes.labelcolor : grey
+# -- Figure size --
+figure.figsize : 10, 7
+# -- Saving Options --
+savefig.bbox : tight
+savefig.dpi : 500
+savefig.transparent : True
+# -- Plot Styles --
+lines.linewidth : 0.1
+# --Legend --
+legend.fontsize : 15
+legend.handlelength : 2.0
